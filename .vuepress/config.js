@@ -1,4 +1,6 @@
 module.exports = {
+    title: 'Sample Site',
+    description: 'This is a simple description.',
     themeConfig: {
         logo: '/assets/img/logo.jpeg',
         nav: [
